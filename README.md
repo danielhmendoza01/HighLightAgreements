@@ -74,20 +74,6 @@ The macro is designed to compare data in a specified range of cells between two 
 ---
 
 # Step-by-Step Breakdown of `HighlightAgreements` Macro with Code Fragments
-
-
-### Table of Contents
-- [1. **Initialization:**](#1-initialization)
-- [2. **Setting the Range for Analysis:**](#2-setting-the-range-for-analysis)
-- [3. **Looping Through Specified Columns and Processing Data:**](#3-looping-through-specified-columns-and-processing-data)
-- [4. **Comparing Data in the Arrays:**](#4-comparing-data-in-the-arrays)
-- [5. **Determining Match Category and Highlighting:**](#5-determining-match-category-and-highlighting)
-- [6. **Populating Data Dictionary:**](#6-populating-data-dictionary)
-- [7. **Generating the Summary Report:**](#7-generating-the-summary-report)
-- [8. **Counting Color-based Results:**](#8-counting-color-based-results)
-
----
-
 1. **Initialization:**
     ```vba
     Dim wb As Workbook
